@@ -1,5 +1,7 @@
 # 국민대학교 산학협력 프로젝트
-메타러닝을 이요한 텍스트 리뷰 데이터에서의 추천 시스템
+메타러닝을 이용한 텍스트 리뷰 데이터에서의 추천 시스템<br>
+추천 시스템에 대한 평가는 정확도, 정밀도, 재현율, F1-Score를 이용하였고 평가 방법은 다음 포스트를 참고하였다.
+https://bond-kirill-alexandrovich.medium.com/precision-and-recall-in-recommender-systems-and-some-metrics-stuff-ca2ad385c5f8
 
 ## ver 1
 referrence <br>
